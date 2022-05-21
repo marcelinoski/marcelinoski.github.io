@@ -10,6 +10,7 @@ Markdown tiene una sintaxis liviana y de fácil uso para diseñar sus páginas. 
 
 ```markdown
 Bloque de código con resaltado de sintaxis
+```
 
 # Cabecera 1
 ## Cabecera 2
@@ -24,7 +25,6 @@ Bloque de código con resaltado de sintaxis
 Texto **Negrita** y _Itálica_ y `Código` 
 
 [Enlace](url) e ![Imagen](src)
-```
 
 Para más detalles ver [Sintaxis básica de escritura y formato](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

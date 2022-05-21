@@ -1,36 +1,36 @@
 ## Bienvenido a las páginas de GitHub
 
-You can use the [editor on GitHub](https://github.com/marcelinoski/marcelinoski.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Puedes usar el [editor en GitHub](https://github.com/marcelinoski/marcelinoski.github.io/edit/main/index.md) para mantener y obtener una vista previa del contenido de su sitio web en archivos Markdown.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Siempre que se comprometa con este repositorio, las páginas de GitHub se ejecutarán [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown tiene una sintaxis liviana y de fácil uso para diseñar sus documentos. Incluye convenciones para
 
 ```markdown
-Syntax highlighted code block
+Bloque de código con resaltado de sintaxis
 
-# Header 1
-## Header 2
-### Header 3
+# Cabecera 1
+## Cabecera 2
+### Cabecera 3
 
-- Bulleted
-- List
+- Lista
+- Viñetas
 
-1. Numbered
-2. List
+1. Lista
+2. Numerada
 
-**Bold** and _Italic_ and `Code` text
+Texto **Negrita** y _Itálica_ y `Código` 
 
-[Link](url) and ![Image](src)
+[Enlace](url) y ![Imagen](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para más detalles ver [Sintaxis básica de escritura y formato](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Temas Jekyll
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcelinoski/marcelinoski.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sus páginas del sitio utilizarán el diseño y los estilos del tema de Jekyll que ha seleccionado en su [repository settings](https://github.com/marcelinoski/marcelinoski.github.io/settings/pages). El nombre de este tema Jekyll esta guardado en el `_config.yml` archivo de configuración.
 
 ### Soporte o Contacto
 

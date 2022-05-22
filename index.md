@@ -1,8 +1,8 @@
-## Bienvenido a mis páginas de GitHub
+## Bienvenido a mi página en GitHub
 
 Se puede usar el [editor de GitHub](https://github.com/marcelinoski/marcelinoski.github.io/edit/main/index.md) para mantener y obtener una vista previa del contenido del sitio web en archivos Markdown.
 
-Siempre que se actualice este repositorio, las páginas de GitHub usaran el [tema](https://jekyllrb.com/) para reconstruir el sitio, a partir del contenido de los archivos Markdown.
+Siempre que se actualice este repositorio, las páginas de GitHub usaran el [tema seleccionado](https://jekyllrb.com/) para reconstruir el sitio, a partir del contenido de los archivos Markdown.
 
 ### Markdown
 
@@ -22,7 +22,7 @@ Bloques de código con resaltado de sintaxis
 1. Lista
 2. Numerada
 
-Textos en **Negrita** , _Itálica_ y `Código` 
+Textos en **Negrita**, _Itálica_ y `Código` 
 
 [Enlaces](url) e ![Imágenes](src)
 
@@ -30,7 +30,7 @@ Para más detalles ver [Sintaxis básica de escritura y formato](https://docs.gi
 
 ### Tema
 
-Las páginas del sitio utilizan el diseño y los estilos del tema seleccionado en la [configuración del repositorio](https://github.com/marcelinoski/marcelinoski.github.io/settings/pages). El nombre del tema esta guardado en el archivo de configuración `_config.yml` .
+Las páginas del sitio utilizan el diseño y los estilos del tema seleccionado en la [configuración del repositorio](https://github.com/marcelinoski/marcelinoski.github.io/settings/pages). El nombre del tema esta guardado en el archivo de configuración `_config.yml`.
 
 ### Soporte y Contacto
 

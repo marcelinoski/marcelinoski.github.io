@@ -2,7 +2,7 @@
 
 Se puede usar el [editor de GitHub](https://github.com/marcelinoski/marcelinoski.github.io/edit/main/index.md) para mantener y obtener una vista previa del contenido del sitio web en archivos Markdown.
 
-Siempre que se actualice este repositorio, las páginas de GitHub usaran [Jekyll](https://jekyllrb.com/) para reconstruir las páginas del sitio, a partir del contenido de los archivos Markdown.
+Siempre que se actualice este repositorio, las páginas de GitHub usaran el [tema](https://jekyllrb.com/) para reconstruir las páginas del sitio, a partir del contenido de los archivos Markdown.
 
 ### Markdown
 

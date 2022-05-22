@@ -34,4 +34,4 @@ Las páginas del sitio utilizan el diseño y los estilos del tema seleccionado e
 
 ### Soporte y Contacto
 
-¿Tiene problemas con las páginas? Echar un vistazo a la [documentación](https://docs.github.com/categories/github-pages-basics/) o [contactar con soporte](https://support.github.com/contact) para su solución.
+¿Tiene problemas con las páginas? Eché un vistazo a la [documentación](https://docs.github.com/categories/github-pages-basics/) o [contactar con soporte](https://support.github.com/contact) para su solución.

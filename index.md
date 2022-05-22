@@ -1,12 +1,12 @@
 ## Bienvenido a mis páginas de GitHub
 
-Se puedes usar el [editor de GitHub](https://github.com/marcelinoski/marcelinoski.github.io/edit/main/index.md) para mantener y obtener una vista previa del contenido del sitio web en archivos Markdown.
+Se puede usar el [editor de GitHub](https://github.com/marcelinoski/marcelinoski.github.io/edit/main/index.md) para mantener y obtener una vista previa del contenido del sitio web en archivos Markdown.
 
-Siempre que se actualice este repositorio, las páginas de GitHub usaran [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de su sitio, a partir del contenido de sus archivos Markdown.
+Siempre que se actualice este repositorio, las páginas de GitHub usaran [Jekyll](https://jekyllrb.com/) para reconstruir las páginas del sitio, a partir del contenido de los archivos Markdown.
 
 ### Markdown
 
-Markdown tiene una sintaxis liviana y de fácil uso para diseño de páginas. Incluye convenciones para:
+Markdown tiene una sintaxis liviana y fácil de usar en el diseño de páginas. Incluye convenciones para:
 
 ```markdown
 Bloques de código con resaltado de sintaxis
@@ -34,4 +34,4 @@ Las páginas del sitio utilizan el diseño y los estilos del tema seleccionado e
 
 ### Soporte y Contacto
 
-¿Tiene problemas con las páginas? Echar un vistazo a la [documentación](https://docs.github.com/categories/github-pages-basics/) o [contacte con soporte](https://support.github.com/contact) y le ayudaremos a solucionarlo.
+¿Tiene problemas con las páginas? Echar un vistazo a la [documentación](https://docs.github.com/categories/github-pages-basics/) o [contacte con soporte](https://support.github.com/contact) para su solución.
